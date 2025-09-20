@@ -1,6 +1,6 @@
 from instagrapi import Client
 from instagrapi.exceptions import LoginRequired
-from logger_config import logger
+from .logger_config import logger
 from getpass import getpass
 import requests
 import os
