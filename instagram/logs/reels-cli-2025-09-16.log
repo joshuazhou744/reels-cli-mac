@@ -1,0 +1,54 @@
+2025-09-16 13:31:57,439 - reels-cli - INFO - instagram_client.py:46 - attempting login via useername/password
+2025-09-16 13:32:07,432 - reels-cli - INFO - instagram_client.py:55 - Login successful
+2025-09-16 13:32:09,458 - reels-cli - WARNING - instagram_client.py:106 - Method failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:32:13,584 - reels-cli - WARNING - instagram_client.py:106 - Method failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:32:13,584 - reels-cli - ERROR - instagram_client.py:110 - All methods failed to fetch reels
+2025-09-16 13:32:35,006 - reels-cli - INFO - instagram_client.py:55 - Login successful
+2025-09-16 13:32:36,949 - reels-cli - WARNING - instagram_client.py:106 - Method failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:32:41,332 - reels-cli - WARNING - instagram_client.py:106 - Method failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:32:41,333 - reels-cli - ERROR - instagram_client.py:110 - All methods failed to fetch reels
+2025-09-16 13:32:59,338 - reels-cli - INFO - instagram_client.py:55 - Login successful
+2025-09-16 13:33:03,775 - reels-cli - WARNING - instagram_client.py:66 - reels_timeline_media failed: 1 validation error for Media
+clips_metadata.original_sound_info.ig_artist.profile_pic_id
+  Field required [type=missing, input_value={'pk': 1723800278, 'pk_id...ong_id__': '1723800278'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing, trying alternative method
+2025-09-16 13:33:05,681 - reels-cli - ERROR - instagram_client.py:89 - Error fetching reels: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:35:31,089 - reels-cli - INFO - instagram_client.py:58 - Login successful
+2025-09-16 13:35:36,062 - reels-cli - WARNING - instagram_client.py:69 - reels_timeline_media failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type, trying alternative method
+2025-09-16 13:35:38,220 - reels-cli - ERROR - instagram_client.py:92 - Error fetching reels: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:37:00,941 - reels-cli - INFO - instagram_client.py:58 - Login successful
+2025-09-16 13:37:07,049 - reels-cli - WARNING - instagram_client.py:69 - reels_timeline_media failed: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type, trying alternative method
+2025-09-16 13:37:09,238 - reels-cli - ERROR - instagram_client.py:92 - Error fetching reels: 1 validation error for Media
+clips_metadata.original_sound_info
+  Input should be a valid dictionary or instance of ClipsOriginalSoundInfo [type=model_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.11/v/model_type
+2025-09-16 13:39:06,823 - reels-cli - INFO - instagram_client.py:58 - Login successful
+2025-09-16 13:40:38,584 - reels-cli - INFO - instagram_client.py:50 - Attempting to login via username and password. username: joshuaz74
+2025-09-16 13:40:48,282 - reels-cli - INFO - instagram_client.py:59 - Login successful
+2025-09-16 13:41:34,573 - reels-cli - INFO - instagram_client.py:59 - Login successful
+2025-09-16 13:42:30,980 - reels-cli - INFO - instagram_client.py:59 - Login successful
+2025-09-16 13:56:26,750 - reels-cli - INFO - instagram_client.py:59 - Login successful

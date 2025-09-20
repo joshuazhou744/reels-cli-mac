@@ -1,0 +1,8 @@
+.venv
+instagram/__pycache__
+__pycache__
+
+.env
+.env.local
+.config
+session.json

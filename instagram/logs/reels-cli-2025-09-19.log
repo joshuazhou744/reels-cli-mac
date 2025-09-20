@@ -1,0 +1,2 @@
+2025-09-19 21:03:03,921 - reels-cli - WARNING - instagram_client.py:35 - Session is invalid, need to login via username and password
+2025-09-19 21:03:14,398 - reels-cli - INFO - instagram_client.py:59 - Login successful
