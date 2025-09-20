@@ -1,7 +1,1 @@
-2025-09-19 21:03:03,921 - reels-cli - WARNING - instagram_client.py:35 - Session is invalid, need to login via username and password
-2025-09-19 21:03:14,398 - reels-cli - INFO - instagram_client.py:59 - Login successful
-2025-09-19 21:56:01,218 - reels-cli - INFO - instagram_client.py:50 - Attempting to login via username and password. username: joshuaz74
-2025-09-19 21:56:10,765 - reels-cli - INFO - instagram_client.py:59 - Login successful
-2025-09-19 21:57:27,523 - reels-cli - INFO - instagram_client.py:59 - Login successful
-2025-09-19 21:58:31,211 - reels-cli - INFO - instagram_client.py:59 - Login successful
-2025-09-19 22:01:20,691 - reels-cli - INFO - instagram_client.py:59 - Login successful
+2025-09-19 23:09:18,747 - reels-cli - INFO - instagram_client.py:59 - Login successful

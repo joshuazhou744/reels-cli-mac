@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 class InstagramClient:
-    def __init__(self, username: str, password: str):
+    def __init__(self, username: str, password: str, session_file: str = None):
         self.username = username
         self.password = password
         self.client = Client()
@@ -64,7 +64,8 @@ class InstagramClient:
             last_pk = 0
         reels = self.client.reels_timeline_media("explore_reels", count, last_media_pk=last_pk)
         last_pk = reels[-1].pk if reels else last_pk
-        return [reel.video_url for reel in reels if reel.video_url], last_pk
+        urls = [reel.video_url for reel in reels if reel.video_url]
+        return urls, last_pk
 
 
 if __name__ == "__main__":
